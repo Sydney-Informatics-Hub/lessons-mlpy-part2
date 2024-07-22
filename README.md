@@ -1,6 +1,5 @@
-# Machine Learning in Python part 1: Regression
-
-This is a repository for Sydney Informatics Hub's lesson materials for the "Introduction to Machine Learning using Python" workshop.
+# Machine Learning in Python part 2: Classification
+This is a repository for Sydney Informatics Hub's lesson materials for the "Introduction to Machine Learning using Python" workshops.
 
 ## Setup requirements
 
