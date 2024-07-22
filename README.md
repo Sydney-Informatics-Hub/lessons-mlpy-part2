@@ -12,11 +12,11 @@ In this workshop we’re using Google Colab to modify and run Python code provid
 
 2.	Use the blue sign in button on the top right of the screen to sign into your Google account;
 
-![](fig/setup1.png)
+![Screenshot of the Google Colab interface, showing the "Sign In" button](fig/setup1.png)
 
 3.	If you are not automatically prompted to open a notebook, navigate to the **File** menu and then select **Open notebook**;
 
-![](fig/setup2.png)
+![Screenshot of the Google Colab File menu, with the "Open notebook" option highlighted](fig/setup2.png)
 
 4.	Navigate to the ‘**GitHub**’ tab 
 
@@ -26,7 +26,7 @@ In this workshop we’re using Google Colab to modify and run Python code provid
 
   - In the Path section, click on `02-Classification-Exercises.ipynb` to open the notebook.
 
-![](fig/setup3.png)  
+![Screenshot of the Google Colab "Open notebook" dialog, showing the GitHub menu and the GitHub URL input field](fig/setup3.png)  
 
 Note: if you get pop ups that prompt you to give GitHub permissions, close the popup window and untick the option ‘*include private repos*’.
 
