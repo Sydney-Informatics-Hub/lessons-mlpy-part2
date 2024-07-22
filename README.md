@@ -20,11 +20,11 @@ In this workshop we’re using Google Colab to modify and run Python code provid
 
 4.	Navigate to the ‘**GitHub**’ tab 
 
-  - Paste this URL [https://github.com/Sydney-Informatics-Hub/lessons-mlpy-part1](https://github.com/Sydney-Informatics-Hub/lessons-mlpy-part1) into the box provided for GitHub URLs. 
+  - Paste this URL <https://github.com/Sydney-Informatics-Hub/lessons-mlpy-part2> into the box provided for GitHub URLs. 
 
   - Click the search symbol. Additional information about the repository and paths will appear.
 
-  - In the Path section, click on `01-Regression-Exercises.ipynb` to open the notebook.
+  - In the Path section, click on `02-Classification-Exercises.ipynb` to open the notebook.
 
 ![](fig/setup3.png)  
 
